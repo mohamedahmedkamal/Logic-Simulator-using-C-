@@ -1,4 +1,6 @@
 # Logic-Simulator-using-C-
 Design a simple logic simulator that provides a mechanism to run and simulate logic circuits then find the desired outputs for different designs.
 
-update the main
+i am testing git
+
+i pushed the branch
